@@ -1,0 +1,22 @@
+#hero .feature-product {
+  background: #feeae9;
+}
+
+#products {
+  background: #f4f4f4;
+}
+.product-price,
+.more {
+  background-image: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.btn {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+  color: white;
+}
+
+#subscription {
+  background: #fff2f1;
+}
